@@ -47,6 +47,15 @@
             android:name=".Example6Activity"
             android:parentActivityName=".ExampleListActivity"
             />
+        <activity
+            android:name=".Example7Activity"
+            android:parentActivityName=".ExampleListActivity"
+            />
+
+        <activity
+            android:name=".Example8Activity"
+            android:parentActivityName=".ExampleListActivity"
+            />
     </application>
 
 </manifest>
